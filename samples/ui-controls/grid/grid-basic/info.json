@@ -1,0 +1,6 @@
+{
+	"id": "grid-basic",
+	"name": "Grid Basic",
+	"description": "Basic grid rendering",
+	"order": 10
+}
